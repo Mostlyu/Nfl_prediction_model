@@ -1,7 +1,7 @@
-# Nfl_prediction_model
+# Nfl_prediction_model:
 This repository contains a Python-based machine learning model designed to predict the final scores of American football games. Utilizing historical game statistics and leveraging the powerful RandomForestRegressor from scikit-learn, the model provides predictions on game outcomes based on various team performance metrics.
 
-Model Description
+Model Description:
 The score predictor is built using Python and scikit-learn, a popular machine learning library. The model predicts the final scores (Final_home and Final_away) of American football games, offering insights into potential game outcomes.
 
 Key Features:
@@ -14,7 +14,7 @@ Key Features:
 
 - Evaluation Metrics: Employs metrics like Mean Squared Error (MSE) for model evaluation, ensuring the reliability of predictions.
 
-Dataset
+Dataset:
 The model is trained on a dataset comprising various game statistics, including:
 
 Team names (home and away)
